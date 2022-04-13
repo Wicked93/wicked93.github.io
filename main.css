@@ -1,0 +1,35 @@
+.news article h2{
+    font-size:32px;
+    color: blue;
+}
+.news>article>h2{
+    color: red;
+}
+p{
+    color: green;
+}
+.orange{
+    color:rgb(0, 204, 255);
+}
+#hred{
+    color:navy;
+}
+
+
+#block1{
+  width: 500px;
+    float: left;
+    display: block;
+    text-align: center;
+    border: 2px solid black;
+
+}
+#block2{
+    width: auto;
+    float: right;
+    display: block;
+    text-align: center;
+    
+    border: 2px solid black;
+    
+}
